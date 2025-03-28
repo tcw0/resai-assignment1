@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+.idea/
+.vim/
+*.pyc
+*.bak
+crawler/log
+Examples
+.__pycache__/
+.DS_Store
